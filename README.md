@@ -1,8 +1,6 @@
 ### 👋 Hi there.
 I'm Shahzaib — a Technical Program Manager and Full Stack Developer based in Toronto.
-
-### 🚀 **About Me:**
-- 💼 Managing projects by day, coding for fun by night. I love the balance between strategic planning and hands-on development.
+I manage projects by day, and code for fun by night. I love the balance between strategic planning and hands-on development.
 
 ### 🛠️ **Skills:**
 - **Languages:** JavaScript, TypeScript, Python, C++
@@ -11,7 +9,7 @@ I'm Shahzaib — a Technical Program Manager and Full Stack Developer based in T
 - **Databases:** MongoDB, MySQL, Firebase Realtime Database
 
 ### 🌱 **Currently Learning:**
-- [Technology/Tool]
+- [Microservices & Event Based Architecture]
 
 ### 💬 **Let's Connect:**
 - [LinkedIn](Your LinkedIn Profile URL)
