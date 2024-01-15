@@ -1,16 +1,15 @@
 # Shahzaib's GitHub Profile
 
-👋 Hi there, I'm Shahzaib — a Technical Program Manager and hobbyist Full Stack Developer!
+👋 Hi there, I'm Shahzaib — a Technical Program Manager and Full Stack Developer!
 
 🚀 **About Me:**
-- 💼 Technical Program Manager by day, coding enthusiast by night.
-- 🌐 Exploring the world of Full Stack development.
+- 💼 Managing projects by day, coding for fun by night. I love the balance between strategic planning and hands-on development.
 
 🛠️ **Skills:**
-- **Languages:** [List of Programming Languages]
-- **Frameworks:** [List of Frameworks]
-- **Technologies:** [List of Technologies]
-- **Tools:** [List of Tools]
+- **Languages:** JavaScript, TypeScript, Python, C++
+- **Frontend Tools, Frameworks & Libraries:** HTML, CSS, React.js, Next.js, Redux, Material UI, Chakra UI
+- **Backend Tools, Frameworks & Libraries:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, MySQL, Firebase Realtime Database
 
 🌱 **Currently Learning:**
 - [Technology/Tool]
