@@ -12,8 +12,8 @@ I manage projects by day, and code for fun by night. I love the balance between 
 - Microservices & Event Based Architecture
 
 ### 💬 **Let's Connect:**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaibshaikh98/)
-- [Email](Your Email Address)
+- [🔗 in/shahzaibshaikh98](https://www.linkedin.com/in/shahzaibshaikh98/)
+- [📧 shahzaibshaikh98@gmail.com](shahzaibshaikh98@gmail.com)
 
 ### 🚀 **Projects:**
 1. [Project Name 1](Link to Project 1): Short description of the project.
