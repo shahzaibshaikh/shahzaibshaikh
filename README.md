@@ -1,5 +1,3 @@
-# Shahzaib's GitHub Profile
-
 👋 Hi there, I'm Shahzaib — a Technical Program Manager and Full Stack Developer!
 
 🚀 **About Me:**
