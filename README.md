@@ -11,16 +11,13 @@ I manage projects by day, and code for fun by night. I love the balance between 
 ### 🌱 **Currently Learning:**
 - Microservices & Event Based Architecture
 
-### 💬 **Let's Connect:**
-- [🔗 in/shahzaibshaikh98](https://www.linkedin.com/in/shahzaibshaikh98/)
-- [📧 shahzaibshaikh98@gmail.com](shahzaibshaikh98@gmail.com)
-
 ### 🚀 **Projects:**
 1. [Project Name 1](Link to Project 1): Short description of the project.
 2. [Project Name 2](Link to Project 2): Short description of the project.
 3. ...
 
-📫 **Reach Out:**
-- Interested in collaboration or just want to chat? Feel free to drop me an email!
+### 💬 **Let's Connect:**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shahzaibshaikh98/)
+- 📧 [Email](shahzaibshaikh98@gmail.com)
 
 Thanks for stopping by! Let's build something amazing together!
