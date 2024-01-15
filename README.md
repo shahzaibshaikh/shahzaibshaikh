@@ -3,12 +3,12 @@ I'm Shahzaib — a Technical Program Manager and Full Stack Developer based in T
 I manage projects by day, and code for fun by night. I love the balance between strategic planning and hands-on development.
 
 ### 🛠️ **Skills:**
-- **Project Management Skills & Tools:** Agile and Waterfall Project Management, SDLC Management, Jira, Confluence, MS Project
-- **Languages:** JavaScript, TypeScript, Python, C++
-- **Frontend Tools, Frameworks & Libraries:** HTML, CSS, React.js, Next.js, Redux, Material UI, Chakra UI
-- **Backend Tools, Frameworks & Libraries:** Node.js, Express.js, REST APIs
-- **Databases:** MongoDB, MySQL, Firebase Realtime Database
-- **Cloud & Deployment:** AWS, Kubernetes, Docker, GitHub
+- 💼 **Project Management Skills & Tools:** Agile and Waterfall Project Management, SDLC Management, Jira, Confluence, MS Project
+- 👨‍💻 **Programming Languages:** JavaScript, TypeScript, Python, C++
+- ⚙️ **Frontend Tools, Frameworks & Libraries:** HTML, CSS, React.js, Next.js, Redux, Material UI, Chakra UI
+- ⚙️ **Backend Tools, Frameworks & Libraries:** Node.js, Express.js, REST APIs
+- 🗃️ **Databases:** MongoDB, MySQL, Firebase Realtime Database
+- ☁️ **Cloud & Deployment:** AWS, Kubernetes, Docker, GitHub
 
 ### 🌱 **Currently Learning:**
 - Microservices & Event Based Architecture
