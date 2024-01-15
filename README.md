@@ -9,10 +9,10 @@ I manage projects by day, and code for fun by night. I love the balance between 
 - **Databases:** MongoDB, MySQL, Firebase Realtime Database
 
 ### 🌱 **Currently Learning:**
-- [Microservices & Event Based Architecture]
+- Microservices & Event Based Architecture
 
 ### 💬 **Let's Connect:**
-- [LinkedIn](Your LinkedIn Profile URL)
+- [LinkedIn](https://www.linkedin.com/in/shahzaibshaikh98/)
 - [Email](Your Email Address)
 
 ### 🚀 **Projects:**
