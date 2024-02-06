@@ -1,6 +1,6 @@
 ### 👋 Hi there.
 I'm Shahzaib — a Technical Project Manager and Full Stack Developer based in Toronto.
-I manage projects by day, and code for fun by night. I love the balance between strategic planning and hands-on development.
+I love the balance between strategic planning and hands-on development.
 
 ### 🛠️ **Skills:**
 - 💼 **Project Management Skills & Tools:** Agile and Waterfall Project Management, SDLC Management, Jira, Confluence, MS Project
