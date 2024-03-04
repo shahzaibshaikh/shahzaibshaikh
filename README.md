@@ -1,5 +1,5 @@
 ### 👋 Hi there.
-I'm Shahzaib — a Technical Project Manager and Full Stack Developer based in Toronto.\
+I'm Shahzaib — a Technical Project Manager and Software Engineer based in Toronto.\
 I love the balance between strategic planning and hands-on development.
 
 ### 🛠️ **Skills:**
@@ -7,6 +7,7 @@ I love the balance between strategic planning and hands-on development.
 - 👨‍💻 **Programming Languages:** JavaScript, TypeScript, Python, C++
 - ⚙️ **Frontend Tools, Frameworks & Libraries:** HTML, CSS, React.js, Next.js, Redux, Material UI, Chakra UI
 - ⚙️ **Backend Tools, Frameworks & Libraries:** Node.js, Express.js, REST APIs
+- 🧠 **Machine Learning:** Pytorch Forecasting, Darts, scikit-learn, Transformers, LLMs
 - 🗃️ **Databases:** MongoDB, MySQL, Firebase Realtime Database
 - ☁️ **Cloud & Deployment:** AWS, Kubernetes, Docker, GitHub
 
