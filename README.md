@@ -3,7 +3,7 @@ I'm Shahzaib — a Technical Project Manager and Software Engineer based in Toro
 I love the balance between strategic planning and hands-on development.
 
 ### 🛠️ **Skills:**
-- 💼 **Project Management Skills & Tools:** Agile and Waterfall Project Management, SDLC Management, Jira, Confluence, MS Project
+- 💼 **Project Management Skills:** Agile and Waterfall Project Management, SDLC Management, Jira, Confluence, MS Project
 - 👨‍💻 **Programming Languages:** JavaScript, TypeScript, Python, C++
 - ⚙️ **Frontend Tools, Frameworks & Libraries:** HTML, CSS, React.js, Next.js, Redux, Material UI, Chakra UI
 - ⚙️ **Backend Tools, Frameworks & Libraries:** Node.js, Express.js, REST APIs
